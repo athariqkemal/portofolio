@@ -34,6 +34,7 @@ const projects = {
     images: [
       "images/ruangsamping-logo.png",
       "images/ruangsamping-menu.jpg",
+      "images/ruangsamping-eskulkul.jpg",
     ],
   },
   beban: {
