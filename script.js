@@ -33,7 +33,6 @@ const projects = {
     title: "Ruang Samping",
     images: [
       "images/ruangsamping-logo.png",
-      "images/ruangsamping-eskulkul.jpg",
       "images/ruangsamping-menu.jpg",
     ],
   },
